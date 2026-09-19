@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Bem-vindosa
+# Bem-vindos
 
 O **NationZ** é focado em uma experiência direta de sobrevivência e PVP, onde o objetivo é simples: se manter vivo e evoluir em um ambiente hostil e competitivo. Aqui não existe roteiro, narrativa guiada ou interpretação de personagens, apenas gameplay puro.
 
