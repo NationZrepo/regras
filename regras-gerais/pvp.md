@@ -4,7 +4,7 @@ icon: child-combatant
 
 # PvP
 
-**1.1** - O PVP é liberado 24 horas por dia. No entanto, qualquer forma de trapaça resultará em punição.
+**1.1** - O PVP é liberado durante o dia in-game, ficando desativado das **22:00 às 06:59** (horário do ciclo interno do jogo) devido ao modo PVE, exceto durante os horários de raid e dentro de áreas de eventos, que permanecem sempre com PvP ativo. Consulte [PvE](pve.md) para mais detalhes. Qualquer forma de trapaça resultará em punição.
 
 **1.2** - O uso de metagaming é proibido.
 

@@ -36,4 +36,8 @@ O Airdrop é um evento onde uma aeronave sobrevoa o mapa e lança um contêiner 
 
 ***
 
+**1.5** - A área do Airdrop é sempre considerada uma zona de PvP ativa, independentemente do modo PVE estar ligado ou não.
+
+***
+
 © 2026 NationZ — Todos os direitos reservados.

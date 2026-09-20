@@ -28,6 +28,8 @@ Ao atingir 100% de domínio, será gerada uma caixa com itens valiosos no centro
 
 **2.2** - O uso de veículos, seja dentro da área do evento ou nas proximidades com a intenção de obter vantagem (como informação ou posicionamento), poderá resultar em punição e perda do veículo, independentemente de ser VIP.
 
+**2.3** - A área do evento é sempre considerada uma zona de PvP ativa, independentemente do modo PVE estar ligado ou não.
+
 ***
 
 © 2026 NationZ — Todos os direitos reservados.

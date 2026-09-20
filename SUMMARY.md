@@ -16,6 +16,7 @@
 * [Discord](regras-gerais/discord.md)
 * [Safezone](regras-gerais/safezone.md)
 * [PvP](regras-gerais/pvp.md)
+* [PvE](regras-gerais/pve.md)
 * [Raids](regras-gerais/raids.md)
 * [Base](regras-gerais/base.md)
 * [Clãs](regras-gerais/clas.md)

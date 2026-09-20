@@ -35,4 +35,8 @@ O Helicrash é um evento onde um helicóptero militar cai em um ponto aleatório
 
 ***
 
+**1.5** - A área do Helicrash é sempre considerada uma zona de PvP ativa, independentemente do modo PVE estar ligado ou não.
+
+***
+
 © 2026 NationZ — Todos os direitos reservados.

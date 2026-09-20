@@ -29,6 +29,8 @@ icon: gun
 \
 **1.11** - É **expressamente proibido realizar raid contra bandeiras**. Qualquer tentativa ou ação de raid direcionada a uma bandeira será considerada **infração às regras do servidor**, ficando o(s) jogador(es) envolvido(s) **passível(is) de punição** conforme a gravidade da situação.
 
+**1.12** - Os horários de raid têm prioridade sobre o modo PVE. Durante o raid, o PvP e o dano a estruturas ficam liberados normalmente, mesmo que o ciclo noturno do jogo esteja ativo. Consulte [PvE](pve.md).
+
 ***
 
 © 2026 NationZ — Todos os direitos reservados.
